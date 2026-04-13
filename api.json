@@ -1,0 +1,313 @@
+{
+  "sections": [
+    {
+      "name": "Bein Sport",
+      "collections": [
+        {
+          "name": "beIN Sports",
+          "icon": "https://via.placeholder.com/150x150.png?text=beIN+Sports",
+          "channels": [
+            {
+              "name": "beIN Sports 1",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              },
+              "streams": [
+                {
+                  "name": "1080p",
+                  "url": "https://matchnow.optikl.ink/matchnow/play.m3u8?id=116900&cat=4524",
+                  "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Referer": "https://matchnow.optikl.ink/",
+                    "Origin": "https://matchnow.optikl.ink"
+                  }
+                },
+                { "name": "480p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/918454578001/index.m3u8" },
+                { "name": "480p - سيرفر 2", "url": "http://het110c.ycn-redirect.com/live/918454578001/index.m3u8" },
+                { "name": "480p - سيرفر 3", "url": "http://het120c.ycn-redirect.com/live/918454578001/index.m3u8" },
+                { "name": "480p - سيرفر 4", "url": "http://het130c.ycn-redirect.com/live/918454578001/index.m3u8" },
+                { "name": "480p - سيرفر 5", "url": "http://het140c.ycn-redirect.com/live/918454578001/index.m3u8" },
+                { "name": "240p - سيرفر 1", "url": "http://het100b.ycn-redirect.com/live/31009988005/index.m3u8" },
+                { "name": "240p - سيرفر 2", "url": "http://het111b.ycn-redirect.com/live/31009988005/index.m3u8" },
+                { "name": "240p - سيرفر 3", "url": "http://het121b.ycn-redirect.com/live/31009988005/index.m3u8" },
+                { "name": "240p - سيرفر 4", "url": "http://het131b.ycn-redirect.com/live/31009988005/index.m3u8" }
+              ]
+            },
+            {
+              "name": "beIN Sports 2",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              },
+              "streams": [
+                {
+                  "name": "1080p",
+                  "url": "https://matchnow.optikl.ink/matchnow/play.m3u8?id=116901&cat=4524",
+                  "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Referer": "https://matchnow.optikl.ink/",
+                    "Origin": "https://matchnow.optikl.ink"
+                  }
+                },
+                { "name": "480p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/69854211/index.m3u8" },
+                { "name": "480p - سيرفر 2", "url": "http://het110c.ycn-redirect.com/live/69854211/index.m3u8" },
+                { "name": "480p - سيرفر 3", "url": "http://het120c.ycn-redirect.com/live/69854211/index.m3u8" },
+                { "name": "480p - سيرفر 4", "url": "http://het130c.ycn-redirect.com/live/69854211/index.m3u8" },
+                { "name": "480p - سيرفر 5", "url": "http://het140c.ycn-redirect.com/live/69854211/index.m3u8" },
+                { "name": "240p - سيرفر 1", "url": "http://het100b.ycn-redirect.com/live/4798998070/index.m3u8" },
+                { "name": "240p - سيرفر 2", "url": "http://het111b.ycn-redirect.com/live/4798998070/index.m3u8" },
+                { "name": "240p - سيرفر 3", "url": "http://het121b.ycn-redirect.com/live/4798998070/index.m3u8" },
+                { "name": "240p - سيرفر 4", "url": "http://het131b.ycn-redirect.com/live/4798998070/index.m3u8" }
+              ]
+            },
+            {
+              "name": "beIN Sports 3",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              },
+              "streams": [
+                {
+                  "name": "1080p",
+                  "url": "https://matchnow.optikl.ink/matchnow/play.m3u8?id=116902&cat=4524",
+                  "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Referer": "https://matchnow.optikl.ink/",
+                    "Origin": "https://matchnow.optikl.ink"
+                  }
+                },
+                { "name": "480p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/645587700/index.m3u8" },
+                { "name": "480p - سيرفر 2", "url": "http://het110c.ycn-redirect.com/live/645587700/index.m3u8" },
+                { "name": "480p - سيرفر 3", "url": "http://het120c.ycn-redirect.com/live/645587700/index.m3u8" },
+                { "name": "480p - سيرفر 4", "url": "http://het130c.ycn-redirect.com/live/645587700/index.m3u8" },
+                { "name": "480p - سيرفر 5", "url": "http://het140c.ycn-redirect.com/live/645587700/index.m3u8" },
+                { "name": "240p - سيرفر 1", "url": "http://het100b.ycn-redirect.com/live/551818447/index.m3u8" },
+                { "name": "240p - سيرفر 2", "url": "http://het111b.ycn-redirect.com/live/551818447/index.m3u8" },
+                { "name": "240p - سيرفر 3", "url": "http://het121b.ycn-redirect.com/live/551818447/index.m3u8" },
+                { "name": "240p - سيرفر 4", "url": "http://het131b.ycn-redirect.com/live/551818447/index.m3u8" }
+              ]
+            },
+            {
+              "name": "beIN Sports 4",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              },
+              "streams": [
+                {
+                  "name": "1080p",
+                  "url": "https://matchnow.optikl.ink/matchnow/play.m3u8?id=116903&cat=4524",
+                  "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Referer": "https://matchnow.optikl.ink/",
+                    "Origin": "https://matchnow.optikl.ink"
+                  }
+                },
+                { "name": "480p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/9787488847/index.m3u8" },
+                { "name": "480p - سيرفر 2", "url": "http://het110c.ycn-redirect.com/live/9787488847/index.m3u8" },
+                { "name": "480p - سيرفر 3", "url": "http://het120c.ycn-redirect.com/live/9787488847/index.m3u8" },
+                { "name": "480p - سيرفر 4", "url": "http://het130c.ycn-redirect.com/live/9787488847/index.m3u8" },
+                { "name": "480p - سيرفر 5", "url": "http://het140c.ycn-redirect.com/live/9787488847/index.m3u8" },
+                { "name": "240p - سيرفر 1", "url": "http://het100b.ycn-redirect.com/live/131326625/index.m3u8" },
+                { "name": "240p - سيرفر 2", "url": "http://het111b.ycn-redirect.com/live/131326625/index.m3u8" },
+                { "name": "240p - سيرفر 3", "url": "http://het121b.ycn-redirect.com/live/131326625/index.m3u8" },
+                { "name": "240p - سيرفر 4", "url": "http://het131b.ycn-redirect.com/live/131326625/index.m3u8" }
+              ]
+            },
+            {
+              "name": "beIN Sports 5",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              },
+              "streams": [
+                {
+                  "name": "1080p",
+                  "url": "https://matchnow.optikl.ink/matchnow/play.m3u8?id=116904&cat=4524",
+                  "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Referer": "https://matchnow.optikl.ink/",
+                    "Origin": "https://matchnow.optikl.ink"
+                  }
+                },
+                { "name": "480p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/610303030/index.m3u8" },
+                { "name": "480p - سيرفر 2", "url": "http://het110c.ycn-redirect.com/live/610303030/index.m3u8" },
+                { "name": "480p - سيرفر 3", "url": "http://het120c.ycn-redirect.com/live/610303030/index.m3u8" },
+                { "name": "480p - سيرفر 4", "url": "http://het130c.ycn-redirect.com/live/610303030/index.m3u8" },
+                { "name": "480p - سيرفر 5", "url": "http://het140c.ycn-redirect.com/live/610303030/index.m3u8" },
+                { "name": "240p - سيرفر 1", "url": "http://het100b.ycn-redirect.com/live/181818444/index.m3u8" },
+                { "name": "240p - سيرفر 2", "url": "http://het111b.ycn-redirect.com/live/181818444/index.m3u8" },
+                { "name": "240p - سيرفر 3", "url": "http://het121b.ycn-redirect.com/live/181818444/index.m3u8" },
+                { "name": "240p - سيرفر 4", "url": "http://het131b.ycn-redirect.com/live/181818444/index.m3u8" }
+              ]
+            },
+            {
+              "name": "beIN Sports 6",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              },
+              "streams": [
+                {
+                  "name": "1080p",
+                  "url": "https://matchnow.optikl.ink/matchnow/play.m3u8?id=116905&cat=4524",
+                  "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Referer": "https://matchnow.optikl.ink/",
+                    "Origin": "https://matchnow.optikl.ink"
+                  }
+                },
+                { "name": "480p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/1515000000/index.m3u8" },
+                { "name": "480p - سيرفر 2", "url": "http://het110c.ycn-redirect.com/live/1515000000/index.m3u8" },
+                { "name": "480p - سيرفر 3", "url": "http://het120c.ycn-redirect.com/live/1515000000/index.m3u8" },
+                { "name": "480p - سيرفر 4", "url": "http://het130c.ycn-redirect.com/live/1515000000/index.m3u8" },
+                { "name": "480p - سيرفر 5", "url": "http://het140c.ycn-redirect.com/live/1515000000/index.m3u8" },
+                { "name": "240p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/9883322/index.m3u8" },
+                { "name": "240p - سيرفر 2", "url": "http://het111c.ycn-redirect.com/live/9883322/index.m3u8" },
+                { "name": "240p - سيرفر 3", "url": "http://het121c.ycn-redirect.com/live/9883322/index.m3u8" },
+                { "name": "240p - سيرفر 4", "url": "http://het131c.ycn-redirect.com/live/9883322/index.m3u8" }
+              ]
+            },
+            {
+              "name": "beIN Sports 7",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              },
+              "streams": [
+                { "name": "480p - سيرفر 1", "url": "http://het100c.ycn-redirect.com/live/33523510/index.m3u8" },
+                { "name": "480p - سيرفر 2", "url": "http://het110c.ycn-redirect.com/live/33523510/index.m3u8" },
+                { "name": "480p - سيرفر 3", "url": "http://het120c.ycn-redirect.com/live/33523510/index.m3u8" },
+                { "name": "480p - سيرفر 4", "url": "http://het130c.ycn-redirect.com/live/33523510/index.m3u8" },
+                { "name": "480p - سيرفر 5", "url": "http://het140c.ycn-redirect.com/live/33523510/index.m3u8" },
+                { "name": "240p - سيرفر 1", "url": "http://het100b.ycn-redirect.com/live/79247621/index.m3u8" },
+                { "name": "240p - سيرفر 2", "url": "http://het111b.ycn-redirect.com/live/79247621/index.m3u8" },
+                { "name": "240p - سيرفر 3", "url": "http://het121b.ycn-redirect.com/live/79247621/index.m3u8" },
+                { "name": "240p - سيرفر 4", "url": "http://het131b.ycn-redirect.com/live/79247621/index.m3u8" }
+              ]
+            },
+            {
+              "name": "beIN Extra 1",
+              "url": "http://het131a.ycn-redirect.com/live/996251000/index.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              }
+            },
+            {
+              "name": "beIN Extra 2",
+              "url": "http://het131a.ycn-redirect.com/live/33523510/index.m3u8",
+              "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://x.com/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al Kass",
+      "collections": [
+        {
+          "name": "قنوات الكأس",
+          "icon": "https://via.placeholder.com/150x150.png?text=AlKass",
+          "channels": [
+            {
+              "name": "الكأس 1",
+              "streams": [
+                { "name": "1080p", "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260317T132448Z/mux_video_1080p_ts/index-1.m3u8" },
+                { "name": "720p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260317T132448Z/mux_video_720p_ts/index-1.m3u8" },
+                { "name": "480p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260317T132448Z/mux_video_480p_ts/index-1.m3u8" },
+                { "name": "360p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260317T132448Z/mux_video_360p_ts/index-1.m3u8" },
+                { "name": "240p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/20260317T132448Z/mux_video_240p_ts/index-1.m3u8" }
+              ]
+            },
+            {
+              "name": "الكأس 2",
+              "streams": [
+                { "name": "1080p", "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260317T165846Z/mux_video_1080p_ts/index-1.m3u8" },
+                { "name": "720p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260317T165846Z/mux_video_720p_ts/index-1.m3u8" },
+                { "name": "480p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260317T165846Z/mux_video_480p_ts/index-1.m3u8" },
+                { "name": "360p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260317T165846Z/mux_video_360p_ts/index-1.m3u8" },
+                { "name": "240p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/20260317T165846Z/mux_video_240p_ts/index-1.m3u8" }
+              ]
+            },
+            {
+              "name": "الكأس 3",
+              "streams": [
+                { "name": "1080p", "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260317T132624Z/mux_video_1080p_ts/index-1.m3u8" },
+                { "name": "720p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260317T132624Z/mux_video_720p_ts/index-1.m3u8" },
+                { "name": "480p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260317T132624Z/mux_video_480p_ts/index-1.m3u8" },
+                { "name": "360p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260317T132624Z/mux_video_360p_ts/index-1.m3u8" },
+                { "name": "240p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/20260317T132624Z/mux_video_240p_ts/index-1.m3u8" }
+              ]
+            },
+            {
+              "name": "الكأس 4",
+              "streams": [
+                { "name": "1080p", "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260317T132726Z/mux_video_1080p_ts/index-1.m3u8" },
+                { "name": "720p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260317T132726Z/mux_video_720p_ts/index-1.m3u8" },
+                { "name": "480p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260317T132726Z/mux_video_480p_ts/index-1.m3u8" },
+                { "name": "360p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260317T132726Z/mux_video_360p_ts/index-1.m3u8" },
+                { "name": "240p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/20260317T132726Z/mux_video_240p_ts/index-1.m3u8" }
+              ]
+            },
+            {
+              "name": "الكأس 5",
+              "streams": [
+                { "name": "1080p", "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260317T132935Z/mux_video_1080p_ts/index-1.m3u8" },
+                { "name": "720p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260317T132935Z/mux_video_720p_ts/index-1.m3u8" },
+                { "name": "480p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260317T132935Z/mux_video_480p_ts/index-1.m3u8" },
+                { "name": "360p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260317T132935Z/mux_video_360p_ts/index-1.m3u8" },
+                { "name": "240p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/20260317T132935Z/mux_video_240p_ts/index-1.m3u8" }
+              ]
+            },
+            {
+              "name": "الكأس 6",
+              "streams": [
+                { "name": "1080p", "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/20260317T133129Z/mux_video_1080p_ts/index-1.m3u8" },
+                { "name": "720p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/20260317T133129Z/mux_video_720p_ts/index-1.m3u8" },
+                { "name": "480p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/20260317T133129Z/mux_video_480p_ts/index-1.m3u8" },
+                { "name": "360p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/20260317T133129Z/mux_video_360p_ts/index-1.m3u8" },
+                { "name": "240p",  "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/20260317T133129Z/mux_video_240p_ts/index-1.m3u8" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MBC",
+      "collections": [
+        {
+          "name": "قنوات MBC",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Group_logo.svg/320px-MBC_Group_logo.svg.png",
+          "channels": [
+            { "name": "MBC 1",        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264" },
+            { "name": "MBC Masr 1",   "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264" },
+            { "name": "MBC 4",        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264" },
+            { "name": "MBC 5",        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264" },
+            { "name": "MBC Iraq",     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264" },
+            { "name": "MBC Bollywood","url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Football Clubs",
+      "collections": [
+        {
+          "name": "قنوات الأندية",
+          "icon": "https://via.placeholder.com/150x150.png?text=Football+Clubs",
+          "channels": [
+            { "name": "ريال مدريد",      "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8" },
+            { "name": "برشلونة",          "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8" },
+            { "name": "مانشستر يونايتد", "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd" }
+          ]
+        }
+      ]
+    }
+  ]
+}
