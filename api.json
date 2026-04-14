@@ -5,7 +5,7 @@
       "collections": [
         {
           "name": "beIN Sports",
-          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/bein.whep",
+          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/bein.webp",
           "channels": [
             {
               "name": "beIN Sports 1",
@@ -212,7 +212,7 @@
       "collections": [
         {
           "name": "قنوات الكأس",
-          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/alkass.whep",
+          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/alkass.webp",
           "channels": [
             {
               "name": "الكأس 1",
@@ -283,7 +283,7 @@
       "collections": [
         {
           "name": "قنوات MBC",
-          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/mbc.whep",
+          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/mbc.webp",
           "channels": [
             { "name": "MBC 1",        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264" },
             { "name": "MBC Masr 1",   "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264" },
@@ -303,17 +303,17 @@
           "channels": [
             {
               "name": "ريال مدريد",
-              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/rma.whep",
+              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/rma.webp",
               "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"
             },
             {
               "name": "برشلونة",
-              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/barca.whep",
+              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/barca.webp",
               "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8"
             },
             {
               "name": "مانشستر يونايتد",
-              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/manu.whep",
+              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/manu.webp",
               "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImFncCI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpxZEdraU9pSTJNemMwTURVME5qY3hNVEV5SW4wLlg3WkJMemlsX3Jka1VXbVROTVhPbXNhTGdxLXhJX3dSTFV4eHh2a1pYRTgifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd"
             }
           ]
