@@ -300,11 +300,22 @@
       "collections": [
         {
           "name": "قنوات الأندية",
-          "icon": "https://via.placeholder.com/150x150.png?text=Football+Clubs",
           "channels": [
-            { "name": "ريال مدريد",      "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8" },
-            { "name": "برشلونة",          "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8" },
-            { "name": "مانشستر يونايتد", "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd" }
+            {
+              "name": "ريال مدريد",
+              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/rma.whep",
+              "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"
+            },
+            {
+              "name": "برشلونة",
+              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/barca.whep",
+              "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8"
+            },
+            {
+              "name": "مانشستر يونايتد",
+              "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/manu.whep",
+              "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImFncCI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpxZEdraU9pSTJNemMwTURVME5qY3hNVEV5SW4wLlg3WkJMemlsX3Jka1VXbVROTVhPbXNhTGdxLXhJX3dSTFV4eHh2a1pYRTgifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd"
+            }
           ]
         }
       ]
