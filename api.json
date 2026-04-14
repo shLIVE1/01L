@@ -5,7 +5,7 @@
       "collections": [
         {
           "name": "beIN Sports",
-          "icon": "https://via.placeholder.com/150x150.png?text=beIN+Sports",
+          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/bein.whep",
           "channels": [
             {
               "name": "beIN Sports 1",
@@ -212,7 +212,7 @@
       "collections": [
         {
           "name": "قنوات الكأس",
-          "icon": "https://via.placeholder.com/150x150.png?text=AlKass",
+          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/alkass.whep",
           "channels": [
             {
               "name": "الكأس 1",
@@ -283,7 +283,7 @@
       "collections": [
         {
           "name": "قنوات MBC",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Group_logo.svg/320px-MBC_Group_logo.svg.png",
+          "icon": "https://cdn.jsdelivr.net/gh/shLIVE1/icon/mbc.whep",
           "channels": [
             { "name": "MBC 1",        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264" },
             { "name": "MBC Masr 1",   "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264" },
